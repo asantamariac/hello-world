@@ -7,3 +7,7 @@ This tutorial focuses mainly on Git and using GitHub as its remote.
 This repository is built step vby step in the tutorial.
 
 It now includes step for GitHub.
+
+Y realizamos algunos cambios en el archivo README.md. Simplemente agregue una nueva línea.
+
+
